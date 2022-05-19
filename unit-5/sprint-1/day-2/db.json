@@ -1,0 +1,94 @@
+{
+  "laptopData": [
+    {
+      "id": 1,
+      "model": "IS F",
+      "make year": 2008,
+      "operating system": "Browsebug",
+      "screen height": 7,
+      "screen width": 68,
+      "price": "50000"
+    },
+    {
+      "id": 2,
+      "model": "Forester",
+      "make year": 2010,
+      "operating system": "Myworks",
+      "screen height": 81,
+      "screen width": 70,
+      "price": "43689"
+    },
+    {
+      "id": 3,
+      "model": "S-Class",
+      "make year": 1993,
+      "operating system": "Photolist",
+      "screen height": 86,
+      "screen width": 73,
+      "price": "84835"
+    },
+    {
+      "id": 4,
+      "model": "B-Series",
+      "make year": 2006,
+      "operating system": "Innojam",
+      "screen height": 99,
+      "screen width": 15,
+      "price": "61032"
+    },
+    {
+      "id": 5,
+      "model": "Savana 2500",
+      "make year": 2001,
+      "operating system": "Thoughtmix",
+      "screen height": 19,
+      "screen width": 78,
+      "price": "60000"
+    },
+    {
+      "id": 6,
+      "model": "Savana 3500",
+      "make year": 2010,
+      "operating system": "Divape",
+      "screen height": 67,
+      "screen width": 59,
+      "price": "20001"
+    },
+    {
+      "id": 7,
+      "model": "Jimmy",
+      "make year": 1999,
+      "operating system": "Twimm",
+      "screen height": 64,
+      "screen width": 75,
+      "price": "37000"
+    },
+    {
+      "id": 8,
+      "model": "S90",
+      "make year": 1998,
+      "operating system": "Vipe",
+      "screen height": 93,
+      "screen width": 92,
+      "price": "55000"
+    },
+    {
+      "id": 9,
+      "model": "Town Car",
+      "make year": 1987,
+      "operating system": "Jayo",
+      "screen height": 35,
+      "screen width": 71,
+      "price": "65000"
+    },
+    {
+      "id": 10,
+      "model": "GS",
+      "make year": 1994,
+      "operating system": "Snaptags",
+      "screen height": 89,
+      "screen width": 14,
+      "price": "46000"
+    }
+  ]
+}

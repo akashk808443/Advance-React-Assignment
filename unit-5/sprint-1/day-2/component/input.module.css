@@ -1,0 +1,11 @@
+.inputDiv{
+    width: 30%;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.inputDiv>form{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+}
