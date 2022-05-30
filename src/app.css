@@ -1,0 +1,56 @@
+.sm {
+    height: 20px;
+    width: 180px;
+    font-size: 12px;
+  }
+  
+  .md {
+    height: 25px;
+    width: 280px;
+    font-size: 16px;
+  }
+  
+  .lg {
+    height: 30px;
+    width: 320px;
+    font-size: 20px;
+  }
+  
+  .xl {
+    height: 35px;
+    width: 350px;
+    font-size: 25px;
+  }
+  
+  .outline {
+    border-radius: 5px;
+    border: 2px solid gray;
+  }
+  
+  .outline:focus {
+    border: 2px solid blue;
+  }
+  
+  .filled {
+    background-color: rgb(246, 237, 237);
+    border-radius: 5px;
+  }
+  
+  .flushed {
+    border: none;
+    border-bottom: 2px solid black;
+  }
+
+  .input{
+      /* margin-left: 100px; */
+      text-align: center;
+  }
+
+  .img{
+      margin-left: 48%;
+      margin-top: 20px;
+  }
+
+  .pageContainer{
+      margin-left: 38%;
+  }
